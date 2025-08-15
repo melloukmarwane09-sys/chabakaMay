@@ -1,4 +1,18 @@
-  <span style="color:
+
+<DOCTYPE html!> 
+    <html lang="ar"
+    <head>
+      <meta charset="utf-8
+        <meta name="viewport"
+      content="width=device-width,
+      initial-scale=1.0">
+    </head>
+    <head>
+
+       <p>water network</p>
+      <span>Welcome to the wall</span>
+      <span 
+        <span style="color:
           red">network Water
 <h3>My name is Marwan Malouk from Morocco  I am a content creator, programmer, and shepherd with thousands of users on social media. 
        <h6>Takbisa updated </h6>
@@ -9,15 +23,23 @@
             green">French communication
           </span>
           <h3>Contact Meaning via Email  </h3> 
+<a
 
-"s47815283@gmail.com">
+  href="s47815283@gmail.com">
   s47815283@gmail.com
-  
+</a>
+<script>
+  document.body.style.backgroundColor = "black"
+  
+</script>
+
+      <botton
+        onclick="document.body.sytle.backgroundColor = 'black' ">Click here
    <p>
      <h3>Visit my official website  </h3>
-     
-       "https://sites.google.com/view/gammeng-developre-marwane-ima
-   </p>   "https://sites.google.com/view/gammeng-developre-marwane-ima
+     <span style="color:
+       green"https://sites.google.com/view/gammeng-developre-marwane-ima
+   </p>   </botton>"https://sites.google.com/view/gammeng-developre-marwane-ima
 
   <h6>The site was founded on 12/8/2025 at 05:00 AM. </h6>
   <hr>
@@ -42,3 +64,4 @@
   href="facebook.com">
 https://www.facebook.com/share/1C9s5fXGG1/
 </a>
+<script>   
