@@ -16,12 +16,7 @@
 "s47815283@gmail.com">
   s47815283@gmail.com
 
-<script>
-  document.body.style.backgroundColor = "black"
-  
-</script>
 
-      
         onclick="document.body.sytle.backgroundColor = 'black
    <p>
      <h3>Visit my official website  </h3>
