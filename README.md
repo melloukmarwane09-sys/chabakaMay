@@ -1,4 +1,3 @@
-
  <span style="color:
           red">network Water
 <h3>My name is Marwan Malouk from Morocco  I am a content creator, programmer, and shepherd with thousands of users on social media. 
@@ -44,11 +43,11 @@
 <h6>Takbisa updated  </h6>
   <hr>
   <p>All rights reserved for this website 2025 ©️</p>
-          </span>
+          
           <h3>Contact Meaning via Email  </h3> 
 <a
   
   href="facebook.com">
 https://www.facebook.com/share/1C9s5fXGG1/
 </a>
-<script>   
+
