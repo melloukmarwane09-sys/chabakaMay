@@ -15,10 +15,7 @@
 
   href="s47815283@gmail.com">
   s47815283@gmail.com
-
-      <botton
-        onclick="document.body.sytle.backgroundColor = 'black' ">Click here
-   <p>
+  
      <h3>Visit my official website  </h3>
      <span style="color:
        green"https://sites.google.com/view/gammeng-developre-marwane-ima
@@ -40,11 +37,10 @@
 <h6>Takbisa updated  </h6>
   <hr>
   <p>All rights reserved for this website 2025 ©️</p>
-          </span>
+          
           <h3>Contact Meaning via Email  </h3> 
 <a
   
   href="facebook.com">
 https://www.facebook.com/share/1C9s5fXGG1/
 </a>
-<script>   
