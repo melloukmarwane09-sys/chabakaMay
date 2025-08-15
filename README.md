@@ -15,11 +15,6 @@
 
   href="s47815283@gmail.com">
   s47815283@gmail.com
-</a>
-<script>
-  document.body.style.backgroundColor = "black"
-  
-</script>
 
       <botton
         onclick="document.body.sytle.backgroundColor = 'black' ">Click here
