@@ -20,7 +20,7 @@
 </script>
 
       <botton
-        onclick="document.body.sytle.backgroundColor = 'black' ">Click here
+        onclick="document.body.style.backgroundColor = 'black' ">Click here
    <p>
      <h3>Visit my official website  </h3>
      <span style="color:
