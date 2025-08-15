@@ -1,5 +1,4 @@
-   <p>water network</p>
-      <span>Welcome to the wall</span>
+  <span>Welcome to the wall</span>
       <span 
         <span style="color:
           red">network Water
@@ -15,9 +14,7 @@
 
 "s47815283@gmail.com">
   s47815283@gmail.com
-
-
-        onclick="document.body.sytle.backgroundColor = 'black
+  
    <p>
      <h3>Visit my official website  </h3>
      
