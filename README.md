@@ -1,14 +1,3 @@
-
-<DOCTYPE html!> 
-    <html lang="ar"
-    <head>
-      <meta charset="utf-8
-        <meta name="viewport"
-      content="width=device-width,
-      initial-scale=1.0">
-    </head>
-    <head>
-
        <p>water network</p>
       <span>Welcome to the wall</span>
       <span 
