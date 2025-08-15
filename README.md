@@ -12,16 +12,8 @@
 
   href="s47815283@gmail.com">
   s47815283@gmail.com
-</a>
-<script>
-  document.body.style.backgroundColor = "black"
-  
-</script>
-
-      <botton
-        onclick="document.body.sytle.backgroundColor = 'black' ">Click here
-   <p>
-     <h3>Visit my official website  </h3>
+  
+    <h3>Visit my official website  </h3>
      <span style="color:
        green"https://sites.google.com/view/gammeng-developre-marwane-ima
    </p>   </botton>"https://sites.google.com/view/gammeng-developre-marwane-ima
