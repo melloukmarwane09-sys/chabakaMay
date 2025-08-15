@@ -22,12 +22,12 @@
 </script>
 
       
-        onclick="document.body.sytle.backgroundColor = 'black' ">Click here
+        onclick="document.body.sytle.backgroundColor = 'black' ">
    <p>
      <h3>Visit my official website  </h3>
      <span style="color:
-       green"https://sites.google.com/view/gammeng-developre-marwane-ima
-   </p>   </botton>"https://sites.google.com/view/gammeng-developre-marwane-ima
+       "https://sites.google.com/view/gammeng-developre-marwane-ima
+   </p>   "https://sites.google.com/view/gammeng-developre-marwane-ima
 
   <h6>The site was founded on 12/8/2025 at 05:00 AM. </h6>
   <hr>
