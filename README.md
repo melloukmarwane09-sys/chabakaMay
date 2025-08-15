@@ -3,7 +3,6 @@
 <h3>My name is Marwan Malouk from Morocco  I am a content creator, programmer, and shepherd with thousands of users on social media. 
        <h6>Takbisa updated </h6>
   <h3>
-            
           </h3>
           <span style="color:
             green">French communication
@@ -42,12 +41,11 @@
   <h3>The temperature in the summer can be very dangerous for the health of children and the elderly. This group is more vulnerable to the ultraviolet rays produced by the sun in the summer. Drink plenty of water and do not go out in the sun a lot.</h3>
 <h6>Takbisa updated  </h6>
   <hr>
-  <p>All rights reserved for this website 2025 ©️</p>
+  <p>All rights reserved for this website 2025 </p>
           </span>
           <h3>Contact Meaning via Email  </h3> 
-<a
+
   
   href="facebook.com">
 https://www.facebook.com/share/1C9s5fXGG1/
-</a>
 <script>   
