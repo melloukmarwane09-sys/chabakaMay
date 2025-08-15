@@ -13,12 +13,12 @@
           <h3>Contact Meaning via Email  </h3> 
 <a
 
-  href="s47815283@gmail.com">
+  s47815283@gmail.com">
   s47815283@gmail.com
   
      <h3>Visit my official website  </h3>
-     <span style="color:
-       green"https://sites.google.com/view/gammeng-developre-marwane-ima
+     <span style=
+     https://sites.google.com/view/gammeng-developre-marwane-ima
    </p>   </botton>"https://sites.google.com/view/gammeng-developre-marwane-ima
 
   <h6>The site was founded on 12/8/2025 at 05:00 AM. </h6>
