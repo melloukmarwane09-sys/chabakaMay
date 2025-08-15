@@ -1,15 +1,4 @@
-
-<DOCTYPE html!> 
-    <html lang="ar"
-    <head>
-      <meta charset="utf-8
-        <meta name="viewport"
-      content="width=device-width,
-      initial-scale=1.0">
-    </head>
-    <head>
-
-       <p>water network</p>
+   <p>water network</p>
       <span>Welcome to the wall</span>
       <span 
         <span style="color:
@@ -23,17 +12,16 @@
             green">French communication
           </span>
           <h3>Contact Meaning via Email  </h3> 
-<a
 
   href="s47815283@gmail.com">
   s47815283@gmail.com
-</a>
+
 <script>
   document.body.style.backgroundColor = "black"
   
 </script>
 
-      <botton
+      
         onclick="document.body.sytle.backgroundColor = 'black' ">Click here
    <p>
      <h3>Visit my official website  </h3>
