@@ -11,7 +11,7 @@
           <h3>Contact Meaning via Email  </h3> 
 <a
 
-  href="s47815283@gmail.com">
+  s47815283@gmail.com
   s47815283@gmail.com
 
 <script>
@@ -29,7 +29,7 @@
   
    </p>  
   
-  </botton>"https://sites.google.com/view/gammeng-developre-marwane-ima
+  https://sites.google.com/view/gammeng-developre-marwane-ima
 
   <h6>The site was founded on 12/8/2025 at 05:00 AM. </h6>
   <hr>
