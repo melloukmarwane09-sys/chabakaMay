@@ -1,4 +1,5 @@
-      <img src="InShot_20250818_123840965.jpg.jpg" alt="image">
+
+      <img src="InShot_20250818_123840965.jpg
  <span style="color:
           red">network Water
 <h3>My name is Marwan Malouk from Morocco  I am a content creator, programmer, and shepherd with thousands of users on social media. 
@@ -15,7 +16,7 @@
   s47815283@gmail.com
   s47815283@gmail.com
 
-<script>
+<scrip>
   document.body.style.backgroundColor = "black"
   
 </script>
